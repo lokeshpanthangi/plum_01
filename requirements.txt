@@ -1,0 +1,5 @@
+sap-ai-sdk-gen[all]
+langchain
+python-dotenv
+pypdf
+pymupdf
