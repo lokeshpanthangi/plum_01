@@ -17,33 +17,9 @@
 
 </div>
 
----
+The ClaimFlow AI system processes insurance claims through an intelligent multi-stage pipeline:
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Installation](#-installation)
-- [Running the Application](#-running-the-application)
-- [Workflow](#-workflow)
-- [Project Structure](#-project-structure)
-- [API Endpoints](#-api-endpoints)
-- [Contributing](#-contributing)
-
----
-
-## ✨ Features
-
-- 🔍 **Multi-format Input** - Process claims via text, images, or PDF documents
-- 🤖 **AI-Powered Extraction** - Automatically extract claim details using GPT-4o
-- 📋 **Policy Verification** - RAG-based policy matching using Pinecone vector store
-- ⚠️ **Risk Assessment** - Intelligent risk scoring with confidence metrics
-- 🛤️ **Smart Routing** - Automated claim routing (Fast-Track, Manual Review, Standard)
-- 📊 **Real-time Streaming** - Live processing updates via NDJSON streaming
-- 🌙 **Dark/Light Mode** - Beautiful UI with theme support
-
----
+![ClaimFlow AI Workflow](image.png)
 
 ## 🛠️ Tech Stack
 
@@ -162,10 +138,6 @@ The frontend will start at: `http://localhost:5173`
 
 ## 🔄 Workflow
 
-The ClaimFlow AI system processes insurance claims through an intelligent multi-stage pipeline:
-
-![ClaimFlow AI Workflow](image.png)
-
 ### Stage 1: Intake Node 📥
 
 The intake node receives claims in multiple formats:
@@ -280,11 +252,11 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-## 🙏 Thanks
+## Thanks
 
-**Thank you for checking out ClaimFlow AI!**
+**Thank you for Giving the Assignment to prove my worth!**
 
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
+If you found this project helpful, please contact me.
 
 Built with ❤️ by [Lokesh Panthangi](https://github.com/lokeshpanthangi)
 
